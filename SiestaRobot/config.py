@@ -35,7 +35,7 @@ class Config(object):
     )  # Prints information Error
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgres://dvdltbpo:t0o0deEQnDaqRK5reCqT7_PqVyiy_Wzl@ruby.db.elephantsql.com/dvdltbpo"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgresql://doadmin:AVNS_fQskw1ybQeSVBnKpo13@db-postgresql-nyc1-31108-do-user-14162283-0.b.db.ondigitalocean.com:25060/defaultdb?sslmode=require"  # needed for any database modules
     LOAD = []
     MONGO_DB_URI = "mongodb+srv://newsenzu:newsenzu@cluster0.m1mw8vk.mongodb.net/?retryWrites=true&w=majority"
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
