@@ -35,7 +35,7 @@ class Config(object):
     )  # Prints information Error
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgres://ucfbwdaa:pIqm4jVFT_D58Zf-lhqcSt4k-2_a8nSp@salt.db.elephantsql.com/ucfbwdaa"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://cuzdcojj:2AN8Z057twoa-wDUIM5XIQsUTzqxkbqU@rajje.db.elephantsql.com/cuzdcojj"  # needed for any database modules
     LOAD = []
     MONGO_DB_URI = "mongodb+srv://newsenzu:newsenzu@cluster0.m1mw8vk.mongodb.net/?retryWrites=true&w=majority"
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
