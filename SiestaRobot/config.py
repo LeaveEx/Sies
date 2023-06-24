@@ -20,6 +20,7 @@ class Config(object):
     TOKEN = "5262608425:AAEbUDcE2inIrSqmzdSTTJUDlVHeZF5pJw8"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1680004937  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "itsmeleave"
+    SESSION_STRING = "1BVtsOJIBuyAC0ni7ku6EM2HM8h2qJ5xzAqe2DdtcySA1s4iHs1ckGG2bXrFq9BOe7zHQvcnq74d8Quc8MDmySLxQMfp1XddHaHBoHWtDmnoYFHeT_n-2Ta9TPRbf5_fESDJp7u052RXpvhJrz0GWggI05gacGFud52KKUwZPKqB8JiWxeU_KR8SFz_9BjkjtoeciOWxSrdb8-4ORZFDAK7raO9gDKFKZ_s7N-sX0T9Bqao_0SkNl7IzVnI2t3WOX9-eQskDYjJr7oaYxwurGAupBs9ZyOrTrAHLcLx8_jnlTw1b6HhHLzLisig7PLbpIj7gyx5sKjU9HZwT9_kstw_PQGLyc-N0="
     SUPPORT_CHAT = "senzusupp"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001600598969
